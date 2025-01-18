@@ -6,15 +6,15 @@
 - Fully functional 2048 gameplay with sliding tiles.
 - Intuitive controls using arrow keys or on-screen buttons.
 - Automatic score tracking and grid updates.
-- Minimalist design, playable on any PDF reader with JavaScript support.
+- Minimalist design, playable on any PDF reader with Chromium support.
 
 ## How It Works
 The game logic and interface are implemented using PDF annotations and embedded JavaScript, transforming a static file into an interactive experience.
 
 ## How to Play
-1. Run the script to generate the PDF (`2048_game.pdf`).
-2. Open the PDF in Adobe Acrobat Reader or any JavaScript-enabled PDF viewer.
-3. Use arrow keys or on-screen buttons to slide and combine tiles.
+1. Download the 2048_game.pdf, or alternatively run the script to generate the PDF (`2048_game.pdf`).
+2. Open the PDF in your Google Chrome browser.
+3. Use WASD or on-screen buttons to slide and combine tiles.
 4. Reach the 2048 tile to win! 🎉
 
 ---
