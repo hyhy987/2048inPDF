@@ -9,6 +9,7 @@
 - Minimalist design, playable on any PDF reader with Chromium support.
 
 ## How It Works
+
 The game logic and interface are implemented using PDF annotations and embedded JavaScript, transforming a static file into an interactive experience.
 
 ## How to Play
@@ -16,6 +17,10 @@ The game logic and interface are implemented using PDF annotations and embedded 
 2. Open the PDF in your Google Chrome browser.
 3. Use WASD or on-screen buttons to slide and combine tiles.
 4. Reach the 2048 tile to win! 🎉
+
+## Demo
+
+https://github.com/user-attachments/assets/13f4eedd-000a-4eec-8617-5ea4f217cead
 
 ---
 
